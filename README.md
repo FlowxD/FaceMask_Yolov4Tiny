@@ -1,7 +1,7 @@
 # FaceMask_Yolov4Tiny
 Face mask detection yolov4 tiny
 
-Training/Test data - https://www.kaggle.com/techzizou/labeled-mask-dataset-yolo-darknet
+Training/Test data - https://www.kaggle.com/techzizou/labeled-mask-dataset-yolo-darknet = rename it to obj.zip
  
 1 - In Gdrive create 2 folder yolov4-tiny & training 
 
